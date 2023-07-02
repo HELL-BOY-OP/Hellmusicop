@@ -15,25 +15,25 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     sanki = math.floor(percentage)
     if 0 < sanki <= 10:
-        bar = "☉═════════"
+        bar = "▰▱▱▱▱▱▱▱▱▱"
     elif 10 < sanki < 20:
-        bar = "═☉════════"
+        bar = "▰▰▱▱▱▱▱▱▱▱"
     elif 20 <= sanki < 30:
-        bar = "══☉═══════"
+        bar = "▰▰▰▱▱▱▱▱▱▱"
     elif 30 <= sanki < 40:
-        bar = "═══☉══════"
+        bar = "▰▰▰▰▱▱▱▱▱▱"
     elif 40 <= sanki < 50:
-        bar = "════☉═════"
+        bar = "▰▰▰▰▰▱▱▱▱▱"
     elif 50 <= sanki < 60:
-        bar = "═════☉════"
+        bar = "▰▰▰▰▰▰▱▱▱▱"
     elif 60 <= sanki < 70:
-        bar = "══════☉═══"
+        bar = "▰▰▰▰▰▰▰▱▱▱"
     elif 70 <= sanki < 80:
-        bar = "═══════☉══"
+        bar = "▰▰▰▰▰▰▰▰▱▱"
     elif 80 <= sanki < 95:
-        bar = "════════☉═"
+        bar = "▰▰▰▰▰▰▰▰▰▱"
     else:
-        bar = "═════════☉"
+        bar = "▰▰▰▰▰▰▰▰▰▰"
 
     buttons = [
         [
@@ -44,29 +44,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="▷",
-                callback_data=f"ADMIN Pause|{chat_id}",
+                text=" ❰𝙊𝙬𝙣𝙚𝙧❱",
+                url=f"https://t.me/ITS_HELLL_BOYYY",
             ),
+            
             InlineKeyboardButton(
-                text="ɪɪ",
-                callback_data=f"ADMIN Resume|{chat_id}",
-            ),
-            InlineKeyboardButton(
-                text="✮",
-                callback_data=f"add_playlist {videoid}",
-            ),
-            InlineKeyboardButton(
-                text="‣‣",
-                callback_data=f"ADMIN Skip|{chat_id}",
-            ),
-            InlineKeyboardButton(
-                text="▢",
-                callback_data=f"ADMIN Stop|{chat_id}",
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="✯ ᴄʟᴏsᴇ ✯", callback_data="close"
+                text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/EAGLE_MAFIA_CLUB"
             )
         ],
     ]
