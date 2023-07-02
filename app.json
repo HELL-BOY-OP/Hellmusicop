@@ -1,5 +1,5 @@
 {
-    "name": "𝐒𝐚𝐧𝐤𝐢 𝐌𝐮𝐬𝐢𝐜",
+    "name": "HELL MUSIC BOT",
     "description": "𝑨𝒏 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑨𝒏𝒅 𝑺𝒖𝒑𝒆𝒓𝒇𝒂𝒔𝒕 𝑨𝒖𝒅𝒊𝒐/𝑽𝒊𝒅𝒆𝒐 𝑷𝒍𝒂𝒚𝒆𝒓 𝑩𝒐𝒕 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑽𝑪.",
     "logo": "https://graph.org/file/dd581dd6d8f8f7ea00d16.jpg",
     "keywords": [
@@ -7,8 +7,8 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
-    "success_url": "https://t.me/AdityaDiscus",
+    "repository": "https://github.com/HELL-BOY-OP/Hellmusicop",
+    "success_url": "https://t.me/myworldGJ516",
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
