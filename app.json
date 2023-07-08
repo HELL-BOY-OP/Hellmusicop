@@ -1,7 +1,7 @@
 {
     "name": "HELL MUSIC BOT",
     "description": "𝑨𝒏 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑨𝒏𝒅 𝑺𝒖𝒑𝒆𝒓𝒇𝒂𝒔𝒕 𝑨𝒖𝒅𝒊𝒐/𝑽𝒊𝒅𝒆𝒐 𝑷𝒍𝒂𝒚𝒆𝒓 𝑩𝒐𝒕 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑽𝑪.",
-    "logo": "https://graph.org/file/dff20c9bb7e52a9131fae.jpg",
+    "logo": "https://graph.org/file/dd581dd6d8f8f7ea00d16.jpg",
     "keywords": [
         "musicbot",
         "telegram bot",
@@ -46,7 +46,7 @@
         "MUSIC_BOT_NAME": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 (𝑼𝒔𝒆 𝑵𝒐𝒓𝒎𝒂𝒍 𝑭𝒐𝒏𝒕)",
             "required": true,
-            "value": "Hell music"
+            "value": "Aditya Player"
         },
         "SUPPORT_CHANNEL": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑳𝒊𝒏𝒌 𝑰𝒇 𝒀𝒐𝒖 𝑯𝒂𝒗𝒆 𝑬𝒍𝒔𝒆 𝑳𝒆𝒂𝒗𝒆 𝑰𝒕 𝑨𝒔 𝑫𝒆𝒇𝒂𝒖𝒍𝒕",
