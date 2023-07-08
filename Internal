@@ -10,6 +10,6 @@ OWNER_ID=
 SUPPORT_CHANNEL=https://t.me/THE_BROTHERHOOD_COUNCIL
 SUPPORT_GROUP=https://t.me/EAGLE_MAFIA_CLUB
 UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
-aditya
+UPSTREAM_BRANCH=aditya
 AUTO_DOWNLOADS_CLEAR=True
 
